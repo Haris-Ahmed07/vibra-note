@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Mastery for Beginners",
+      "slug": "guitar-mastery-beginners",
+      "description": "Learn the fundamentals of playing guitar, from basic chords to your first songs. Perfect for absolute beginners.",
+      "price": 99.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "/images/courses/guitar-beginners.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Fundamentals",
+      "slug": "piano-fundamentals",
+      "description": "Master the piano with our comprehensive beginner's course. Learn proper technique, music theory, and play beautiful melodies.",
+      "price": 129.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/images/courses/piano-fundamentals.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training 101",
+      "slug": "vocal-training-101",
+      "description": "Develop your singing voice with professional vocal techniques, breathing exercises, and performance skills.",
+      "price": 89.99,
+      "instructor": "Michael Chen",
+      "isFeatured": true,
+      "image": "/images/courses/vocal-training.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton",
+      "slug": "music-production-ableton",
+      "description": "Learn professional music production techniques using Ableton Live. Create, record, and produce your own tracks.",
+      "price": 149.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": true,
+      "image": "/images/courses/ableton-production.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Master the drums with our comprehensive course covering basic beats, fills, and essential techniques.",
+      "price": 109.99,
+      "instructor": "David Rodriguez",
+      "isFeatured": true,
+      "image": "/images/courses/drumming-essentials.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory Fundamentals",
+      "slug": "music-theory-fundamentals",
+      "description": "Build a solid foundation in music theory to enhance your musical understanding and performance.",
+      "price": 79.99,
+      "instructor": "Robert Taylor",
+      "isFeatured": true,
+      "image": "/images/courses/music-theory.jpg"
+    }
+  ]
+}

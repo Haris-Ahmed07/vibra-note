@@ -1,0 +1,28 @@
+{
+  "testimonials": [
+    {
+      "quote": "This course transformed my approach to music production. The instructors are incredibly knowledgeable and supportive.",
+      "name": "Emily Chen",
+      "role": "Music Producer",
+      "image": "/testimonials/emily.jpg"
+    },
+    {
+      "quote": "I've taken many online courses, but this one stands out. The curriculum is well-structured and practical.",
+      "name": "Michael Rodriguez",
+      "role": "Aspiring Artist",
+      "image": "/testimonials/michael.jpg"
+    },
+    {
+      "quote": "The community and support system here is amazing. I've grown so much as a musician since joining.",
+      "name": "Sophia Williams",
+      "role": "Singer-Songwriter",
+      "image": "/testimonials/sophia.jpg"
+    },
+    {
+      "quote": "The production techniques I learned helped me land my first professional gig. Highly recommended!",
+      "name": "James Kim",
+      "role": "Music Producer",
+      "image": "/testimonials/james.jpg"
+    }
+  ]
+}

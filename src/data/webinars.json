@@ -1,0 +1,46 @@
+{
+  "webinars": [
+    {
+      "title": "Mastering Music Production",
+      "description": "Learn advanced techniques for professional music production.",
+      "date": "2023-11-15T18:00:00Z",
+      "instructor": "Alex Johnson",
+      "category": "Production"
+    },
+    {
+      "title": "Live Performance Tips",
+      "description": "Essential tips for delivering an unforgettable live performance.",
+      "date": "2023-11-20T19:30:00Z",
+      "instructor": "Sarah Miller",
+      "category": "Performance"
+    },
+    {
+      "title": "Music Theory Fundamentals",
+      "description": "Build a strong foundation with music theory essentials.",
+      "date": "2023-11-25T17:00:00Z",
+      "instructor": "David Chen",
+      "category": "Theory"
+    },
+    {
+      "title": "Electronic Music Creation",
+      "description": "From beat making to sound design in electronic music production.",
+      "date": "2023-12-02T16:00:00Z",
+      "instructor": "Emma Davis",
+      "category": "Production"
+    },
+    {
+      "title": "Vocal Recording Techniques",
+      "description": "Professional vocal recording and processing methods.",
+      "date": "2023-12-05T18:30:00Z",
+      "instructor": "Michael Brown",
+      "category": "Recording"
+    },
+    {
+      "title": "Songwriting Masterclass",
+      "description": "Crafting memorable melodies and lyrics that connect.",
+      "date": "2023-12-10T17:00:00Z",
+      "instructor": "Olivia Wilson",
+      "category": "Songwriting"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+export const whyChooseUsContent = [
+  {
+    title: "Expert Instructors",
+    description: "Learn from industry professionals with years of experience in music production and education.",
+    icon: "🎼"
+  },
+  {
+    title: "Flexible Learning",
+    description: "Study at your own pace with our on-demand video lessons and flexible scheduling options.",
+    icon: "⏱️"
+  },
+  {
+    title: "Practical Skills",
+    description: "Gain hands-on experience with real-world projects and assignments.",
+    icon: "🎯"
+  },
+  {
+    title: "Community Support",
+    description: "Join a community of like-minded musicians and get feedback on your work.",
+    icon: "👥"
+  }
+];

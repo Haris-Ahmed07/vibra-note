@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "title": "About Us",
+      "links": [
+        { "text": "Our Story", "href": "/about" },
+        { "text": "Our Team", "href": "/team" },
+        { "text": "Testimonials", "href": "/testimonials" },
+        { "text": "Careers", "href": "/careers" }
+      ]
+    },
+    {
+      "title": "Quick Links",
+      "links": [
+        { "text": "Courses", "href": "/courses" },
+        { "text": "Pricing", "href": "/pricing" },
+        { "text": "Blog", "href": "/blog" },
+        { "text": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Follow Us",
+      "links": [
+        { "text": "Facebook", "href": "https://facebook.com", "icon": "facebook" },
+        { "text": "Twitter", "href": "https://twitter.com", "icon": "twitter" },
+        { "text": "Instagram", "href": "https://instagram.com", "icon": "instagram" },
+        { "text": "YouTube", "href": "https://youtube.com", "icon": "youtube" }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "info": [
+        { "type": "address", "text": "Sukkur, Pakistan 65200", "icon": "map-pin" },
+        { "type": "email", "text": "haris.14787@gmail.com", "href": "mailto:haris.14787@gmail.com", "icon": "mail" },
+        { "type": "phone", "text": "+92 340 3568231", "href": "tel:+923403568231", "icon": "phone" }
+      ]
+    }
+  ]
+}

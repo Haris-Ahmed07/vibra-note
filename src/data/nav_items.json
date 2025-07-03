@@ -1,0 +1,32 @@
+{
+  "navItems": [
+    {
+      "title": "Home",
+      "href": "/",
+      "subItems": [
+        { "title": "Dashboard", "href": "/dashboard" },
+        { "title": "Profile", "href": "/profile" },
+        { "title": "Settings", "href": "/settings" }
+      ]
+    },
+    {
+      "title": "Our Courses",
+      "href": "/courses",
+      "subItems": [
+        { "title": "Guitar", "href": "/courses/guitar" },
+        { "title": "Piano", "href": "/courses/piano" },
+        { "title": "Violin", "href": "/courses/violin" },
+        { "title": "Drums", "href": "/courses/drums" }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "href": "/contact",
+      "subItems": [
+        { "title": "Email", "href": "/contact/email" },
+        { "title": "Phone", "href": "/contact/phone" },
+        { "title": "Location", "href": "/contact/location" }
+      ]
+    }
+  ]
+}
