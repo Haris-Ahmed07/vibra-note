@@ -13,7 +13,9 @@ export default function Home() {
       <div className="w-full">
         <HeroSection />
         <FeaturedSection />
-        <WhyChooseUs />
+        <div className="hidden md:block">
+          <WhyChooseUs />
+        </div>
         <TestimonialCards />  
         <UpComingWebinar />
         <Instructors />
