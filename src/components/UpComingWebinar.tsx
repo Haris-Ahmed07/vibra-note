@@ -13,10 +13,10 @@ const formattedWebinars = webinars.webinars.map(webinar => ({
 
 function UpComingWebinar() {
   return (
-    <div className="py-12 bg-gray-900">
+    <div className="min-h-screen py-12 bg-gray-900 flex flex-col justify-center items-center">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="text-center">
-          <h2 className="text-base text-teal-600 font-semibold tracking-wid uppercase">FEATURE WEBINARS</h2>
+          <h2 className="text-base text-teal-600 font-semibold tracking-wid uppercase">Future Webinars</h2>
           <p className="text-white mt-2 text-3xl leading-8 font-extrabold tracking-tight sm:text-4xl">
             Enhance Your Music Journey
           </p>

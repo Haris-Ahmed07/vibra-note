@@ -25,9 +25,9 @@ const content = whyChooseUsContent.map((item, index) => ({
 
 function WhyChooseUs() {
   return (
-    <div className="py-12 bg-gray-50 dark:bg-gray-900">
+    <div className="min-h-screen py-12 bg-gray-900 flex flex-col justify-center items-center">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-center mb-12">Why Choose Our Music Academy</h2>
+        <h2 className="text-4xl font-bold text-center mb-12 text-white">Why Choose Our Music Academy</h2>
         <StickyScroll content={content} contentClassName="h-[28rem] w-full max-w-[800px] mx-auto" />
       </div>
     </div>
